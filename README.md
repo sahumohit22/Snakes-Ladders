@@ -2,31 +2,35 @@
 **Multiplayer Game - For Fun.**
 
 ```
-Register for a New Game
+python .\main.py
+Add Players for a New Game
 Enter Number of Players: 2
 Eneter 1 UserName: Ram
 Eneter 2 UserName: Shyam
+User Added: 
+2 Playing...
+Ram
+Shyam
 Starting Game...
 ====================< 1 >========================
-Ram turn
-throw dice
-it is 1
-your Latest Position is 1
-Shyam turn
-throw dice
-it is 4
-your Latest Position is 4
+-> Ram turn
+throw dice -- <press Enter>
+    it is 1
+    your Latest Position is 1
+-> Shyam turn
+throw dice -- <press Enter>
+    it is 4
+    your Latest Position is 4
 ====================< 2 >========================
-Ram turn
-throw dice
-it is 6
-Got 6, throw again
-it is 2
-your Latest Position is 9
-Shyam turn
-throw dice
-it is 1
-Bravo.... You found ladder
-you climb to 8
-your Latest Position is 8
+-> Ram turn
+throw dice -- <press Enter>
+    it is 2
+    Bravo.... You found ladder
+    you climb to 22
+    your Latest Position is 22
+-> Shyam turn
+throw dice -- <press Enter>
+    it is 2
+    your Latest Position is 6
+====================< 3 >========================
 ```

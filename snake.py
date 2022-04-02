@@ -1,6 +1,3 @@
-from os import stat
-
-
 class Snake():
 
     def __init__(self) -> None:

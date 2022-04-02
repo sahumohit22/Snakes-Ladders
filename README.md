@@ -1,6 +1,7 @@
 # Snakes-Ladders
-Multiplayer Game - For Fun.
+**Multiplayer Game - For Fun.**
 
+```
 Register for a New Game
 Enter Number of Players: 2
 Eneter 1 UserName: Ram
@@ -28,3 +29,4 @@ it is 1
 Bravo.... You found ladder
 you climb to 8
 your Latest Position is 8
+```
